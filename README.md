@@ -3,7 +3,7 @@ Hotel Booking System - Lab 02 NMCNPM
 - **University**: PTIT (Posts and Telecommunications Institute of Technology)
 - **Course**: Nhập môn Công nghệ Phần mềm (NMCNPM)
 - **Student**: Phạm Thị Ngọc Trân - n23dcpt052
-- **Repository**: https://github.com/n23dcpt052-ptntran/Lab2-NMCNPM
+- **Repository**: https://d23cqpttk01-n-team-managed.atlassian.net/jira/software/projects/HBS
 
 🎯 Project Description
 Hệ thống đặt phòng khách sạn trực tuyến với đầy đủ tính năng từ tìm kiếm, đặt phòng, thanh toán đến quản lý cho lễ tân và báo cáo cho quản lý
